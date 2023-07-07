@@ -6,8 +6,7 @@
 # Igor Cirineu
 
 ## Olá pessoal 👋
-Sou apreciador da arte do FrontEnd.
-Sou graduando em sistemas de informação :computer:
+Sou graduado em sistemas de informação :computer:
 
 | 
 
