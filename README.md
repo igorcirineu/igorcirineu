@@ -1,14 +1,23 @@
-### Hi there 👋
+Perfil do Desenvolvedor Frontend
 
-```markdown
-<img width="auto" src="https://github.com/igorcirineu.png">
+Olá! 👋
+Sou um desenvolvedor frontend apaixonado por criar experiências incríveis na web. Tenho experiência trabalhando com as stacks React, Angular e TypeScript, e também me arrisco no mundo do Node.js e do Nest.js. Adoro aprender novas tecnologias e aplicar boas práticas de desenvolvimento para criar soluções de alta qualidade.
 
-# Igor Cirineu
+🚀 Habilidades
+Linguagens de Programação: JavaScript, TypeScript
+Frameworks e Bibliotecas: React, Angular
+Ferramentas de Desenvolvimento: Node.js, Nest.js
+Gerenciamento de Estado: Redux
+Estilização: CSS, SASS, Styled Components
+Testes: Jest, React Testing Library, Jasmine
+Controle de Versão: Git
+Metodologia Ágil: Scrum
+Conhecimentos de Backend: Node.js, Express.js, NestJS
+🎓 Educação e Certificações
+Bacharelado em Sistemas de Informação, Universidade Federal de Itajubá
+Certificação em React Avançado, Origamid
+Certificação em Desenvolvimento Web com Angular, Alura
+📫 Entre em contato
+Se você tiver alguma pergunta, oportunidade de colaboração ou apenas quiser bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato comigo através do meu e-mail ou do LinkedIn. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor frontend.
 
-## Olá pessoal 👋
-Sou graduado em sistemas de informação :computer:
-
-| 
-
-
-```
+Vamos criar coisas incríveis juntos! 😄
