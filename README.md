@@ -1,6 +1,6 @@
 # Perfil do Desenvolvedor Frontend
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-cirineu-lima-979265204/)](https://www.linkedin.com/in/igor-cirineu-lima-979265204/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-cirineu-lima-979265204/)](https://www.linkedin.com/in/igorcirineu/)
 
 Olá! 👋
 
